@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sudais Abdul Hamid
 
-<!--
-**Sudais143/Sudais143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Power BI Developer | Data Storyteller | DAX | Business Intelligence
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate Power BI Developer who specializes in turning data into interactive stories. I build scalable and secure dashboards using best practices in data modeling, DAX, and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Query%20Language-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-lightblue?style=for-the-badge&logo=azure-devops)
+
+---
+
+### 🔧 Tech Stack
+- **Business Intelligence**: Power BI (Desktop, Service), Paginated Reports
+- **Data Modeling**: Star Schema, Composite Models, Row-Level Security (RLS)
+- **Scripting & Query**: DAX, Power Query (M), T-SQL
+- **Cloud & Integration**: Microsoft Fabric, Azure SQL, SharePoint, REST APIs
+
+---
+
+### 🧠 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [AmaliTech HR Dashboard](https://github.com/yourusername/amalitech-hr-dashboard) | HR analytics covering KPI performance, training, tenure, and talent risk |
+| [Superstore Sales Dashboard](https://github.com/yourusername/superstore-sales-dashboard) | Profit trends, segment analysis, and product-level insights from a US superstore dataset |
+
+---
+
+### 📈 What I Do
+- Design interactive reports and dashboards
+- Create optimized semantic models for reuse
+- Implement RLS and performance tuning strategies
+- Present insights that drive decision-making
+
+---
+
+### 📬 Let’s Connect
+I'm open to freelance projects, BI consulting, and data storytelling collaborations.  
+📧 Email: hajjsudais143@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sudais-abdul-hamid/)  
+
+---
+
+*This README serves as my GitHub profile homepage. It highlights my portfolio and expertise in Power BI development.*
