@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm a passionate Power BI Developer who specializes in tur
 | Project | Description |
 |--------|-------------|
 | [AmaliTech HR Dashboard](https://github.com/sudais143/amalitech-hr-dashboard) | HR analytics covering KPI performance, training, tenure, and talent risk |
+| [Term Deposit Predictor](https://github.com/Sudais143/term-deposit-predictor) | ML model & Streamlit app to predict client term deposit subscription from marketing campaign data |
 | [Superstore Sales Dashboard](https://github.com/sudais143/superstore-sales-dashboard) | Profit trends, segment analysis, and product-level insights from a US superstore dataset |
 | [Clinica Sierra Vista Dashboard](https://github.com/sudais143/clinica-sierra-vista-dashboard) | Healthcare-themed dashboard with secure role-level access (RLS), tracking sales and operational trends |
 | [Pizza Sales Analytics Dashboard](https://github.com/sudais143/pizza-sales-analytics-dashboard) | Restaurant analytics with revenue insights by pizza type, size, and time of day for growth strategies |
