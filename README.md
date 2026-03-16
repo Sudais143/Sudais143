@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sudais Abdul Hamid
 
-## 🚀 Power BI Developer | Data Storyteller | DAX | Business Intelligence
+## 🚀 Power BI Developer | Fabric Analytics Engineer Data Storyteller | Cloud Business Intelligence & Analytics
 
 Welcome to my GitHub! I'm a passionate Power BI Developer who specializes in turning data into interactive stories. I build scalable and secure dashboards using best practices in data modeling, DAX, and visualization.
 
